@@ -20,6 +20,10 @@ You move while a direction is held. Pushing into the open field starts a line, a
 
 Play in portrait. A floating stick on the lower left moves the marker (it moves while the stick is pushed), and holding **SLOW** as you leave the edge draws a slower line worth double. The pause button opens the menu. The on-screen controls appear on touch devices automatically; Settings has size, opacity and a left-handed layout. Use your browser's *Add to Home Screen* to install it as a full-screen app.
 
+### Controller
+
+Plug in a gamepad and it just works: the stick or D-pad moves the marker, hold **A / B / LT / RT** to draw slowly for double points, **Start** pauses. In menus the D-pad / left stick moves the highlight, **A** selects, **B** goes back and **Start** plays or resumes. **Settings -> Controller** has a dead-zone slider and lets you remap every button.
+
 ## Gameplay
 
 - **Claim the field:** draw a line from one edge to another. The piece of the field **without the prowler** in it becomes yours and reveals part of that level's hidden picture. Claim the level's target percentage (65% on level 1, rising to 80%) to clear it.
